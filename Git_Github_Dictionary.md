@@ -20,4 +20,4 @@ git commit -m "meaning message"  # it sends "saves" to the local repository
 	Effects
 	Limitations
 
-
+# New additions starting here
