@@ -21,3 +21,9 @@ git commit -m "meaning message"  # it sends "saves" to the local repository
 	Limitations
 
 # New additions starting here
+Git status allow me to check what files ar:
+1. unstaged
+2. untracked
+3 ..
+
+
