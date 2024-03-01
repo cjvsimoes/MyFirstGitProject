@@ -6,3 +6,6 @@ git status
 git log
 git show
 git diff
+
+
+I`ve made a freak mistke i dont want to keep this text

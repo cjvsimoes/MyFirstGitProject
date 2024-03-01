@@ -12,7 +12,7 @@ IMPORTANT: don't remove the .git folder whee your history is kept
 
 # Commands
 git init: initializes my git repo
-git commit -m "meaning message"  # it sends "saves" to the local repository, marking it in your history
+git commit -m "meaning message"  # it sends "saves" to the local repository
 
 	Things to consider when writing a message
 	Why
@@ -26,9 +26,13 @@ Git status allow me to check what files ar:
 2. untracked
 3 ..
 
+<<<<<<< HEAD
 git add: adds it to your staging area (organizes the library books)
 git status: check the status of your working folder
 git log: very useful as it gives you access to the whole history
 
 git show: shows what happens in the commits
 git diff: actually compares the two commits -- super-useful for versions comparison
+=======
+
+>>>>>>> parent of a9c4014 (TITLE FOR YOUR MSG)
