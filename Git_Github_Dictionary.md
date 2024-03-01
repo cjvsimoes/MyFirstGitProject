@@ -28,6 +28,7 @@ Git status allow me to check what files ar:
 
 git add: adds it to your staging area (organizes the library books)
 git status: check the status of your working folder
+git log: very useful as it gives you access to the whole history
 
-
-# I think I'm going to struggle right now
+git show: shows what happens in the commits
+git diff: actually compares the two commits -- super-useful for versions comparison
