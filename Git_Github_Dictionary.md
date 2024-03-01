@@ -36,3 +36,13 @@ git diff: actually compares the two commits -- super-useful for versions compari
 =======
 
 >>>>>>> parent of a9c4014 (TITLE FOR YOUR MSG)
+
+
+# Parallel timelines - how to experiment risk free in Git
+1. create a new timeline - branch and give it a name
+'git branch <name>'
+2. checkout to the timeline you want to work on...
+'git checkout <name/id>'
+
+P.S. You can travel branches and commits
+
